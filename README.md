@@ -4,8 +4,8 @@ InspoQuotes is a great app that gives some free inspiration and a lot of paid in
 
 ## Features
 
-* Setup new in-app purchases 
-* Using StoreKit API to allow users to purchase premium content; to detect failure cases and to restore in-app purchases
+* StoreKit and In-App purchases 
+* Allowing users to purchase premium content; detecting failure cases; restoring in-app purchases
 * Persisting of the state of users' purchases
 
 
