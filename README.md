@@ -1,6 +1,6 @@
 # InspoQuotes
 
-InspoQuotes is a great app that gives some free inspiration and a lot of paid inspirational quotes.  
+InspoQuotes is a great app that gives some free inspiration and lots of paid inspirational quotes.  
 
 ## Features
 
